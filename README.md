@@ -33,6 +33,7 @@ The goal is to simulate a small business IT environment where users, groups, and
 - Both joined to the same VNet.
 - Assigned static private IP to `DC-1`.
 <img width="1160" height="280" alt="Screen Shot 2025-09-10 at 5 16 00 PM" src="https://github.com/user-attachments/assets/b068725e-ee14-47ea-ab73-8d0776abfbfe" />
+<img width="563" height="170" alt="Screen Shot 2025-09-10 at 5 18 07 PM" src="https://github.com/user-attachments/assets/f0609dfa-33ef-45c9-a083-340dac2f9c82" />
 
 
 
