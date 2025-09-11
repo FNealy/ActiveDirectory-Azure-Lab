@@ -59,10 +59,8 @@ The goal is to simulate a small business IT environment where users, groups, and
 - Created OU: `Employees`
 - Created Group: `HR`
 - Added users: `Alice HR`, `Bob HR`
-<img width="670" height="459" alt="Screen Shot 2025-09-10 at 6 33 15 PM" src="https://github.com/user-attachments/assets/a9089598-b496-4171-9fdb-ec1a096b783e" />
-<img width="631" height="318" alt="Screen Shot 2025-09-10 at 6 33 20 PM" src="https://github.com/user-attachments/assets/20996781-a260-47dc-9083-b551fa7427fa" />
 
-
+<img width="752" height="525" alt="Screen Shot 2025-09-11 at 11 18 32 AM" src="https://github.com/user-attachments/assets/5447f1af-1c50-4490-8a92-0aaff4411e13" />
 
 ---
 
@@ -78,8 +76,14 @@ The goal is to simulate a small business IT environment where users, groups, and
 - Enforced **password complexity**
 - Set desktop wallpaper via GPO
 <img width="802" height="593" alt="Screen Shot 2025-09-10 at 6 36 38 PM" src="https://github.com/user-attachments/assets/f7225ebf-d133-4778-9aa0-9a822a151116" />
+<img width="801" height="353" alt="Screen Shot 2025-09-10 at 6 39 25 PM" src="https://github.com/user-attachments/assets/397c4ddb-e9be-4210-acf9-326425c3910d" />
+<img width="672" height="774" alt="Screen Shot 2025-09-10 at 6 57 04 PM" src="https://github.com/user-attachments/assets/1b4561ef-bb64-41e4-ab18-763853313822" />
 <img width="778" height="561" alt="Screen Shot 2025-09-10 at 6 40 23 PM" src="https://github.com/user-attachments/assets/d05fe099-37cd-4c70-a721-f45e3d5dcc95" />
+<img width="691" height="644" alt="Screen Shot 2025-09-10 at 8 50 11 PM" src="https://github.com/user-attachments/assets/026c1c14-9e3c-46d4-b033-aca355ed7913" />
+<img width="800" height="590" alt="Screen Shot 2025-09-10 at 8 50 47 PM" src="https://github.com/user-attachments/assets/3343331c-8600-4f5c-bfbb-3979038852dc" />
 
+
+<img width="1440" height="900" alt="Screen Shot 2025-09-10 at 8 48 17 PM" src="https://github.com/user-attachments/assets/0ede3e12-43f5-43ab-8ffa-a3969aacc6b2" />
 
 ### 7. File Share with Permissions
 - Created `\\DC-1\FinanceShare`
@@ -88,7 +92,6 @@ The goal is to simulate a small business IT environment where users, groups, and
 <img width="626" height="347" alt="Screen Shot 2025-09-10 at 8 53 38 PM" src="https://github.com/user-attachments/assets/64879419-55e4-4edd-92d2-348443f8cd25" />
 <img width="518" height="570" alt="Screen Shot 2025-09-10 at 9 22 46 PM" src="https://github.com/user-attachments/assets/c9b279c5-e0bd-4644-93f7-6b182b9374c2" />
 <img width="518" height="570" alt="Screen Shot 2025-09-10 at 9 22 46 PM" src="https://github.com/user-attachments/assets/4e551b8b-5719-44ed-a285-81b75c8634d8" />
-
 
 
 ---
