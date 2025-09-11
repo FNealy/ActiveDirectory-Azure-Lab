@@ -1,4 +1,8 @@
-# 🖥️ Active Directory Domain Services Lab (Azure)
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
+# Active Directory Domain Services Lab (Azure)
 
 ## 🔹 Overview
 This project demonstrates the deployment and configuration of an **Active Directory Domain Services (AD DS) lab environment** in Microsoft Azure.  
