@@ -78,10 +78,12 @@ The goal is to simulate a small business IT environment where users, groups, and
 - Set desktop wallpaper via GPO
 <img width="802" height="593" alt="Screen Shot 2025-09-10 at 6 36 38 PM" src="https://github.com/user-attachments/assets/f7225ebf-d133-4778-9aa0-9a822a151116" />
 <img width="801" height="353" alt="Screen Shot 2025-09-10 at 6 39 25 PM" src="https://github.com/user-attachments/assets/397c4ddb-e9be-4210-acf9-326425c3910d" />
-<img width="672" height="774" alt="Screen Shot 2025-09-10 at 6 57 04 PM" src="https://github.com/user-attachments/assets/1b4561ef-bb64-41e4-ab18-763853313822" />
 <img width="778" height="561" alt="Screen Shot 2025-09-10 at 6 40 23 PM" src="https://github.com/user-attachments/assets/d05fe099-37cd-4c70-a721-f45e3d5dcc95" />
-<img width="691" height="644" alt="Screen Shot 2025-09-10 at 8 50 11 PM" src="https://github.com/user-attachments/assets/026c1c14-9e3c-46d4-b033-aca355ed7913" />
+<img width="1124" height="547" alt="Screen Shot 2025-09-11 at 11 48 41 AM" src="https://github.com/user-attachments/assets/2f0fd8ca-afc4-4bac-9747-46d7b0c1d34c" />
+
+<img width="672" height="774" alt="Screen Shot 2025-09-10 at 6 57 04 PM" src="https://github.com/user-attachments/assets/1b4561ef-bb64-41e4-ab18-763853313822" />
 <img width="800" height="590" alt="Screen Shot 2025-09-10 at 8 50 47 PM" src="https://github.com/user-attachments/assets/3343331c-8600-4f5c-bfbb-3979038852dc" />
+<img width="691" height="644" alt="Screen Shot 2025-09-10 at 8 50 11 PM" src="https://github.com/user-attachments/assets/026c1c14-9e3c-46d4-b033-aca355ed7913" />
 
 
 <img width="1440" height="900" alt="Screen Shot 2025-09-10 at 8 48 17 PM" src="https://github.com/user-attachments/assets/0ede3e12-43f5-43ab-8ffa-a3969aacc6b2" />
