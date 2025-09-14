@@ -14,8 +14,46 @@ The goal is to simulate a small business IT environment where users, groups, and
 - **Azure Virtual Network (VNet)**
   - Subnet: `10.0.0.0/24`
 - **Virtual Machines**
-  - `DC-1` (Windows Server 2019 → Domain Controller + DNS)
+  - `DC-1` (Windows Server 2022 → Domain Controller + DNS)
   - `Client-1` (Windows 10 → Domain-joined workstation)
+ 
+
+---
+
+## 🔹 Environments & Technologies Used
+- **Microsoft Azure** (cloud infrastructure)  
+- **Azure Virtual Network (VNet)** for communication between VMs  
+- **Active Directory Domain Services (AD DS)** for centralized management  
+- **DNS** for internal name resolution  
+- **Group Policy Objects (GPOs)** for enforcing policies  
+- **NTFS & File Shares** for access control  
+- **Remote Desktop Protocol (RDP)** for VM administration  
+
+---
+
+## 🔹 Operating Systems Used
+- **Windows Server 2022 Datacenter** → `DC-1` (Domain Controller + DNS)  
+- **Windows 10 Pro** → `Client-1` (Domain-joined workstation)  
+
+---
+
+## 🔹 Prerequisites
+- Active **Microsoft Azure subscription**  
+- Basic understanding of:  
+  - Azure Virtual Machines & networking  
+  - IP addressing, DNS, and subnets  
+  - Windows Server administration  
+- **Virtual Machine Sizing**  
+  - `DC-1`: 2 vCPUs, 4 GB RAM minimum  
+  - `Client-1`: 2 vCPUs, 4 GB RAM minimum  
+- **Networking Requirements**  
+  - Both VMs deployed in the same VNet + subnet  
+  - Static private IP assigned to Domain Controller  
+- **Tools**  
+  - Remote Desktop Client for VM access  
+
+---
+
 
 ---
 
@@ -32,7 +70,7 @@ The goal is to simulate a small business IT environment where users, groups, and
 ## 🔹 Implementation Steps
 
 ### 1. Create Virtual Machines in Azure
-- Deployed `DC-1` (Windows Server 2019).
+- Deployed `DC-1` (Windows Server 2022).
 - Deployed `Client-1` (Windows 10).
 - Both joined to the same VNet.
 - Assigned static private IP to `DC-1`.
